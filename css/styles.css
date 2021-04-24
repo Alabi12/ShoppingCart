@@ -1,0 +1,60 @@
+body {
+	background-color: white;
+	font-size: 12px;
+	margin-top: 10px;
+	font-family: sans-serif;
+
+}
+
+.sizes,.product, .text{
+	font-size: 20px;
+}
+
+.btn-default{
+	background-color: blue;
+	color: white;
+}
+
+.btn-default1{
+	font-size: 20px;
+
+}
+.Addtocart{
+	text-align: center;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	height: 7vh;
+	padding-top: 15px;
+	border-radius: 10px;
+}
+
+.Prices {
+	text-align: center;
+	font-size: 18px;
+}
+
+.thumbnail{
+	background-image: white;
+	border-color: white;
+
+}
+
+.topright{
+	position: absolute;
+  	top: 8px;
+  	right: 16px;
+  	font-size: 12px;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+}
+.glyphicon-usd p {
+	color: grey;
+	font-size: 18px;
+}
+
+.glyphicon-minus{
+	color: red;
+}
+
